@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Este es un archivo modificado
-=======
-Este ES el archivo para TEST
->>>>>>> test
+
